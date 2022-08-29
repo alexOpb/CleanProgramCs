@@ -1,3 +1,5 @@
+using System;
+
 namespace CleanProgramCs;
 
 public class WeatherForecast
